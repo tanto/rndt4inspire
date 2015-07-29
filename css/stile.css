@@ -6,3 +6,11 @@ ul.share-buttons{
 ul.share-buttons li{
   display: inline;
 }
+
+hr { display: block; height: 1px;
+ border: 0; border-top: 1px solid #F0CA00;
+ margin: 2px 0; padding: 0; } 
+
+ .rndt {
+  color: #47A447 !important;
+}
